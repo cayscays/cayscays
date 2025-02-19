@@ -1,6 +1,6 @@
 ## Greetings, Visitor! 👋  
 ---
-## 🌟 About Me  
+## 💻 About Me  
 
 - 🔭 I bring ideas to life through software design and development, leveraging my expertise while continuously exploring and mastering new technologies 📚.  
 
@@ -27,7 +27,7 @@
 
 ---
 
-## 💻 Projects  
+## :briefcase: Projects  
 
 ### 🌱 1. [Flower Box Bounty](https://github.com/cayscays/Flower-Box-Bounty)  
 - **Description**: A farming desktop game where I implemented design and coding practices that ensure maintainability.
@@ -54,7 +54,7 @@
 
 ---
 
-### 📊 3. [Neural Network from Scratch](https://github.com/cayscays/Neural-Network-From-Scratch)  
+### :chart_with_upwards_trend: 3. [Neural Network from Scratch](https://github.com/cayscays/Neural-Network-From-Scratch)  
 - **Description**: A customizable neural network for classification tasks, achieving 95.36% accuracy in a [medical classification](https://github.com/cayscays/Neural-Network-From-Scratch?tab=readme-ov-file#project-1-chronic-kidney-disease-classification) task and 97.26% in an [oscillators classification](https://github.com/cayscays/Neural-Network-From-Scratch?tab=readme-ov-file#project-2-oscillators-classification-in-game-of-life) task.  
 - **Technologies**: Python, NumPy.
 - **Software Design & Architecture**: Object-Oriented Programming (OOP).  
