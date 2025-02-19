@@ -1,5 +1,5 @@
 ## Greetings, Visitor! 👋  
----
+
 ## 💻 About Me  
 
 - 🔭 I bring ideas to life through software design and development, leveraging my expertise while continuously exploring and mastering new technologies 📚.  
