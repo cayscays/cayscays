@@ -33,10 +33,15 @@
 - **Description**: A farming desktop game where I implemented design and coding practices that ensure maintainability.
 - **Technologies**: .NET, C#, MongoDB (NoSQL).  
 - **Software Design & Architecture**: Object-Oriented Design (OOD), Design Patterns, 3-Tier Architecture.  
-- **Class Diagrams**:  
-  <img src="https://private-user-images.githubusercontent.com/116169018/311239330-eedce7f4-b2d5-48f9-9f4e-5c86866ba4c4.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzk5Nzg0MjksIm5iZiI6MTczOTk3ODEyOSwicGF0aCI6Ii8xMTYxNjkwMTgvMzExMjM5MzMwLWVlZGNlN2Y0LWIyZDUtNDhmOS05ZjRlLTVjODY4NjZiYTRjNC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMjE5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDIxOVQxNTE1MjlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hMWM1N2E5ODY3ZTM1ZjAyODI4N2Y5Mjc4ZjgyMDc5NzcwYjkwNDM3ZWEwYjEzZjQ3MTM1ODgwZTRjNjYyYWQ0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.6hjg0fW7Ck7bHg8vrF_bCiJUr3cxQMqTdaPMVJiK1JQ" alt="One of the Class Diagrams" height="200px">  
-  *One of many class diagrams in the project.*  
-- **Class Diagrams**: [View all class diagrams](https://github.com/cayscays/Flower-Box-Bounty?tab=readme-ov-file#class-diagrams)  
+- **Class Diagrams**:
+  [View all class diagrams](https://github.com/cayscays/Flower-Box-Bounty?tab=readme-ov-file#class-diagrams).
+
+  *Example of a Class Diagram from the Project:*  
+  
+  <img src="https://github.com/user-attachments/assets/8540c508-32d7-4721-91cd-22c6e86d4e69" alt="One of the Class Diagrams" height="150px">  
+  
+  
+ 
 
 ---
 
@@ -50,12 +55,11 @@
 ---
 
 ### 📊 3. [Neural Network from Scratch](https://github.com/cayscays/Neural-Network-From-Scratch)  
-- **Description**: A customizable neural network for classification tasks, achieving 95.36% accuracy in [medical classification](https://github.com/cayscays/Neural-Network-From-Scratch?tab=readme-ov-file#project-1-chronic-kidney-disease-classification) and 97.26% in [oscillators classification](https://github.com/cayscays/Neural-Network-From-Scratch?tab=readme-ov-file#project-2-oscillators-classification-in-game-of-life).  
-- **Technologies**: Python, NumPy.  
-- **Mathematical Foundations**: Linear Algebra.  
+- **Description**: A customizable neural network for classification tasks, achieving 95.36% accuracy in a [medical classification](https://github.com/cayscays/Neural-Network-From-Scratch?tab=readme-ov-file#project-1-chronic-kidney-disease-classification) task and 97.26% in an [oscillators classification](https://github.com/cayscays/Neural-Network-From-Scratch?tab=readme-ov-file#project-2-oscillators-classification-in-game-of-life) task.  
+- **Technologies**: Python, NumPy.
 - **Software Design & Architecture**: Object-Oriented Programming (OOP).  
 - **Graph Visualization**:  
-  <img src="https://github.com/cayscays/Neural-Network-From-Scratch/blob/main/oscillators_classification_in_game_of_life/raw_results/accuracy%20and%20error.png?raw=true" alt="Game of Life Graph" width="200px">  
+  <img src="https://github.com/cayscays/Neural-Network-From-Scratch/blob/main/oscillators_classification_in_game_of_life/raw_results/accuracy%20and%20error.png?raw=true" alt="Game of Life Graph task: showing accuracy results for the oscillators classification task" width="200px">  
 
 ---
 
