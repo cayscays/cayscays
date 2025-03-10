@@ -46,7 +46,7 @@
 ---
 
 ### 🧩 2. Color Sudoku
-- **Description**: A front-end Sudoku variant that uses colors instead of digits.  
+- **Description**: A front-end Sudoku variant that uses colors and digits.  
 - **Technologies**: JavaScript, React.  
 - **Live Demo**: Coming Soon! :film_projector: 
 - **Preview**:  
