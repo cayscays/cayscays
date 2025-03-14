@@ -46,8 +46,8 @@
 ---
 
 ### 🧩 2. Color Sudoku
-- **Description**: A front-end Sudoku variant that uses colors and digits.  
-- **Technologies**: JavaScript, React.  
+- **Description**: A front-end Sudoku variant that uses colors and digits. I deployed a live demo of the game.
+- **Technologies**: JavaScript, React, Vercel.  
 - **Live Demo**: Coming Soon! :film_projector: 
 - **Preview**:  
   <img src="https://github.com/user-attachments/assets/781c5a8b-5423-4daf-8b4c-b52059d8c3da" alt="Color Sudoku Demo" width="200px">  
