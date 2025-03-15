@@ -9,8 +9,8 @@
 
 <div align="center">
   
-  [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/cayscays/)
-  [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/cayscays/)
+  [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://color-sudoku.vercel.app)
+  [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://color-sudoku.vercel.app)
   [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)](https://github.com/cayscays/Flower-Box-Bounty)
   [![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://github.com/cayscays/Flower-Box-Bounty)
   [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/cayscays/Neural-Network-From-Scratch)
@@ -29,7 +29,18 @@
 
 ## :briefcase: Projects  
 
-### 🌱 1. [Flower Box Bounty](https://github.com/cayscays/Flower-Box-Bounty)  
+
+  ### 🧩 1. [Color Sudoku](https://color-sudoku.vercel.app)
+- **Description**: A front-end Sudoku variant that uses colors and digits. I deployed a live demo of the game.
+- **Technologies**: JavaScript, React, Vercel.  
+- **Live Demo**: https://color-sudoku.vercel.app
+- **Preview**:  
+  <img src="https://github.com/user-attachments/assets/781c5a8b-5423-4daf-8b4c-b52059d8c3da" alt="Color Sudoku Demo" width="200px">  
+ 
+
+---
+
+### 🌱 2. [Flower Box Bounty](https://github.com/cayscays/Flower-Box-Bounty)  
 - **Description**: A farming desktop game where I implemented design and coding practices that ensure maintainability.
 - **Technologies**: .NET, C#, MongoDB (NoSQL).  
 - **Software Design & Architecture**: Object-Oriented Design (OOD), Design Patterns, 3-Tier Architecture.  
@@ -40,17 +51,6 @@
   
   <img src="https://github.com/user-attachments/assets/8540c508-32d7-4721-91cd-22c6e86d4e69" alt="One of the Class Diagrams" height="150px">  
   
-  
- 
-
----
-
-### 🧩 2. Color Sudoku
-- **Description**: A front-end Sudoku variant that uses colors and digits. I deployed a live demo of the game.
-- **Technologies**: JavaScript, React, Vercel.  
-- **Live Demo**: Coming Soon! :film_projector: 
-- **Preview**:  
-  <img src="https://github.com/user-attachments/assets/781c5a8b-5423-4daf-8b4c-b52059d8c3da" alt="Color Sudoku Demo" width="200px">  
 
 ---
 
