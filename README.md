@@ -43,7 +43,8 @@
 ### 🌱 2. [Flower Box Bounty](https://github.com/cayscays/Flower-Box-Bounty)  
 - **Description**: A farming desktop game where I implemented design and coding practices that ensure maintainability.
 - **Technologies**: .NET, C#, MongoDB (NoSQL).  
-- **Software Design & Architecture**: Object-Oriented Design (OOD), Design Patterns, 3-Tier Architecture.  
+- **Software Design & Architecture**: Object-Oriented Design (OOD), Design Patterns, 3-Tier Architecture.
+- **GitHub Repository**: https://github.com/cayscays/Flower-Box-Bounty
 - **Class Diagrams**:
   [View all class diagrams](https://github.com/cayscays/Flower-Box-Bounty?tab=readme-ov-file#class-diagrams).
 
@@ -57,7 +58,8 @@
 ### :chart_with_upwards_trend: 3. [Neural Network from Scratch](https://github.com/cayscays/Neural-Network-From-Scratch)  
 - **Description**: A customizable neural network for classification tasks, achieving 95.36% accuracy in a [medical classification](https://github.com/cayscays/Neural-Network-From-Scratch?tab=readme-ov-file#project-1-chronic-kidney-disease-classification) task and 97.26% in an [oscillators classification](https://github.com/cayscays/Neural-Network-From-Scratch?tab=readme-ov-file#project-2-oscillators-classification-in-game-of-life) task.  
 - **Technologies**: Python, NumPy.
-- **Software Design & Architecture**: Object-Oriented Programming (OOP).  
+- **Software Design & Architecture**: Object-Oriented Programming (OOP).
+-  **GitHub Repository**: https://github.com/cayscays/Neural-Network-From-Scratch
 - **Graph Visualization**:  
   <img src="https://github.com/cayscays/Neural-Network-From-Scratch/blob/main/oscillators_classification_in_game_of_life/raw_results/accuracy%20and%20error.png?raw=true" alt="Game of Life Graph task: showing accuracy results for the oscillators classification task" width="200px">  
 
