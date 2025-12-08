@@ -2,7 +2,7 @@
 
 ## 💻 About Me  
 
-- 🔭 I bring ideas to life through software design and development, leveraging my expertise while continuously exploring and mastering new technologies 📚.  
+Software developer with experience across C++, Python, C#, and modern web technologies.
 
 ---
 ## 🛠 My Tech Stack  
@@ -31,8 +31,11 @@
 
 
   ### 🧩 [Color Sudoku](https://color-sudoku.vercel.app)
-- **Description**: A front-end Sudoku variant that uses colors and digits. I deployed a live demo of the game.
-- **Technologies**: JavaScript, React, Vercel, HTML, CSS.  
+- **Description**: A front-end Sudoku variant that uses colors and digits with an interactive gameplay experience
+- **Key Features**:
+  - 🌍 Reached users from 20+ countries worldwide
+  - 📱 Responsive design supporting mobile and desktop
+- **Technologies**: JavaScript, React, HTML, CSS
 - **Live Demo**: https://color-sudoku.vercel.app
 - **Preview**:  
   <img src="https://github.com/user-attachments/assets/781c5a8b-5423-4daf-8b4c-b52059d8c3da" alt="Color Sudoku Demo" width="200px">  
@@ -41,9 +44,9 @@
 ---
 
 ### 🌱 [Flower Box Bounty](https://github.com/cayscays/Flower-Box-Bounty)  
-- **Description**: A farming desktop game where I implemented design and coding practices that ensure maintainability.
-- **Technologies**: .NET, C#, MongoDB (NoSQL).  
-- **Software Design & Architecture**: Object-Oriented Design (OOD), Design Patterns, 3-Tier Architecture.
+- **Description**: A farming desktop game where I implemented design and coding practices that ensure maintainability
+- **Technologies**: .NET, C#, NoSQL (MongoDB)
+- **Software Design & Architecture**: Object-Oriented Design (OOD), Object-Oriented Programming (OOP), Design Patterns, 3-Tier Architecture
 - **GitHub Repository**: https://github.com/cayscays/Flower-Box-Bounty
 - **Class Diagrams**:
   [View all class diagrams](https://github.com/cayscays/Flower-Box-Bounty?tab=readme-ov-file#class-diagrams).
@@ -54,4 +57,4 @@
 
 ---
 
-Thanks for visiting! I hope you enjoy exploring my work! 😊 📖  
+Thanks for visiting! 😊 📖  
