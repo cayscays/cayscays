@@ -32,7 +32,7 @@
 
   ### 🧩 [Color Sudoku](https://color-sudoku.vercel.app)
 - **Description**: A front-end Sudoku variant that uses colors and digits. I deployed a live demo of the game.
-- **Technologies**: JavaScript, React, Vercel.  
+- **Technologies**: JavaScript, React, Vercel, HTML, CSS.  
 - **Live Demo**: https://color-sudoku.vercel.app
 - **Preview**:  
   <img src="https://github.com/user-attachments/assets/781c5a8b-5423-4daf-8b4c-b52059d8c3da" alt="Color Sudoku Demo" width="200px">  
