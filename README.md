@@ -32,7 +32,7 @@ Software developer with experience across C++, Python, C#, and modern web techno
 
   ### 🧩 [Color Sudoku](https://color-sudoku.vercel.app)
 - **Description**: A front-end Sudoku variant that uses colors and features an interactive gameplay experience
-- **Key Features**:
+- **Highlights**:
   - 🌍 Reached users from 20+ countries worldwide
   - 📱 Responsive design supporting mobile and desktop
 - **Technologies**: JavaScript, React, HTML, CSS
