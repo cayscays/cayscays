@@ -2,7 +2,7 @@
 
 ## 💻 About Me  
 
-Software developer with experience across C++, Python, C#, and modern web technologies.
+Software Engineer with experience across C++, Python, C#, and modern web technologies.
 
 ---
 ## 🛠 My Tech Stack  
