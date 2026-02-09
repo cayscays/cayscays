@@ -55,6 +55,3 @@ Software Engineer with experience across C++, Python, C#, and modern web technol
   
   <img src="https://github.com/user-attachments/assets/8540c508-32d7-4721-91cd-22c6e86d4e69" alt="One of the Class Diagrams" height="150px">  
 
----
-
-Thanks for visiting! 😊 📖  
