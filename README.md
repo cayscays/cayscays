@@ -35,7 +35,7 @@ Software Engineer with experience across C++, Python, C#, and modern web technol
 - **Highlights**:
   - 🌍 Reached users from 20+ countries worldwide
   - 📱 Responsive design supporting mobile and desktop
-- **Technologies**: React, JavaScript, HTML, CSS
+- **Technologies**: JavaScript (React), HTML, CSS
 - **Live Demo**: https://color-sudoku.vercel.app
 - **Preview**:  
   <img src="https://github.com/user-attachments/assets/781c5a8b-5423-4daf-8b4c-b52059d8c3da" alt="Color Sudoku Demo" width="200px">  
